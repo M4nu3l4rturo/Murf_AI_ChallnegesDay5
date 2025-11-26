@@ -1,0 +1,26 @@
+[
+    {
+        "id": "ml_intro",
+        "title": "Machine Learning (ML)",
+        "summary": "Machine Learning is a subfield of artificial intelligence focused on teaching computers to learn from data without being explicitly programmed. It uses algorithms to build predictive models.",
+        "sample_question": "What is the main difference between traditional programming and Machine Learning?"
+    },
+    {
+        "id": "supervised",
+        "title": "Supervised Learning",
+        "summary": "In Supervised Learning, the algorithm is trained on labeled data, meaning both the inputs and the desired outputs are known. Examples include classification and regression.",
+        "sample_question": "Provide two examples of problems that would be solved using Supervised Learning."
+    },
+    {
+        "id": "unsupervised",
+        "title": "Unsupervised Learning",
+        "summary": "Unsupervised Learning uses unlabeled data. The goal is to explore the internal structure of the data to discover patterns or groupings (clustering).",
+        "sample_question": "Which Unsupervised ML technique is commonly used for customer segmentation?"
+    },
+    {
+        "id": "model",
+        "title": "ML Model",
+        "summary": "An ML Model is the mathematical representation of a real-world process that has been learned from data. Once trained, it can take new inputs and generate predictions.",
+        "sample_question": "What is the primary purpose of training a Machine Learning model?"
+    }
+]

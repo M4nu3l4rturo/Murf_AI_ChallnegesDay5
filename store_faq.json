@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What do you sell?",
+        "answer": "We offer courses, training, and personalized coaching for companies, all focused on AI and Machine Learning."
+    },
+    {
+        "question": "How much do the courses cost?",
+        "answer": "Pricing varies based on the specific course and training needs. We offer customized packages for companies."
+    },
+    {
+        "question": "Do you offer free content?",
+        "answer": "Yes! Manuel releases weekly tutorials on YouTube for free. The paid courses offer deep-dives, code reviews, and certification."
+    },
+    {
+        "question": "Do you do corporate consulting?",
+        "answer": "Absolutely. We specialize in helping companies integrate AI and Machine Learning into their workflows."
+    }
+]
